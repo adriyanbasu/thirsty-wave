@@ -17,6 +17,10 @@
     "install": {
       "name": "install dependencies",
       "command": "yarn install"
+    },
+    "yarn run dev": {
+      "name": "dev",
+      "command": "yarn run dev"
     }
   }
 }
